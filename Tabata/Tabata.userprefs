@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AF6C0CC2-9B24-4AFF-A93A-9ADEBFC779FE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabata/Program.cs">
+    <Files>
+      <File FileName="Tabata/Program.cs" Line="31" Column="1" />
+      <File FileName="Tabata/Models/tabataSession.cs" Line="19" Column="6" />
+      <File FileName="Tabata/Controllers/Timer.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tabata" expanded="True">
+            <Node name="Tabata" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tabata PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

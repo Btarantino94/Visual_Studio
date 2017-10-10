@@ -1,0 +1,11 @@
+/Users/brittanytarantino/Projects/Tabata/Tabata/obj/Debug/netcoreapp2.0/Tabata.csprojResolveAssemblyReference.cache
+/Users/brittanytarantino/Projects/Tabata/Tabata/obj/Debug/netcoreapp2.0/Tabata.csproj.CoreCompileInputs.cache
+/Users/brittanytarantino/Projects/Tabata/Tabata/obj/Debug/netcoreapp2.0/Tabata.AssemblyInfoInputs.cache
+/Users/brittanytarantino/Projects/Tabata/Tabata/obj/Debug/netcoreapp2.0/Tabata.AssemblyInfo.cs
+/Users/brittanytarantino/Projects/Tabata/Tabata/bin/Debug/netcoreapp2.0/Tabata.deps.json
+/Users/brittanytarantino/Projects/Tabata/Tabata/bin/Debug/netcoreapp2.0/Tabata.runtimeconfig.json
+/Users/brittanytarantino/Projects/Tabata/Tabata/bin/Debug/netcoreapp2.0/Tabata.runtimeconfig.dev.json
+/Users/brittanytarantino/Projects/Tabata/Tabata/bin/Debug/netcoreapp2.0/Tabata.dll
+/Users/brittanytarantino/Projects/Tabata/Tabata/bin/Debug/netcoreapp2.0/Tabata.pdb
+/Users/brittanytarantino/Projects/Tabata/Tabata/obj/Debug/netcoreapp2.0/Tabata.dll
+/Users/brittanytarantino/Projects/Tabata/Tabata/obj/Debug/netcoreapp2.0/Tabata.pdb

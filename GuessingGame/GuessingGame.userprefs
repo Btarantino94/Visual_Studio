@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8024C157-6CDF-4BDD-8D8C-8E86C3DFD923}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GuessingGame/Program.cs">
+    <Files>
+      <File FileName="GuessingGame/Program.cs" Line="36" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GuessingGame PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E77862E5-A882-4122-8C09-D5C57B66C26D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GUESSING_GAME/Program.cs">
+    <Files>
+      <File FileName="GUESSING_GAME/Program.cs" Line="19" Column="1" />
+      <File FileName="GUESSING_GAME/Startup.cs" Line="1" Column="1" />
+      <File FileName="GUESSING_GAME/Controllers/ValuesController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GUESSING__GAME PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/brittanytarantino/Projects/E_Challenge/E_Challenge/bin/Debug/netcoreapp2.0/E_Challenge.deps.json
+/Users/brittanytarantino/Projects/E_Challenge/E_Challenge/bin/Debug/netcoreapp2.0/E_Challenge.runtimeconfig.json
+/Users/brittanytarantino/Projects/E_Challenge/E_Challenge/bin/Debug/netcoreapp2.0/E_Challenge.runtimeconfig.dev.json
+/Users/brittanytarantino/Projects/E_Challenge/E_Challenge/bin/Debug/netcoreapp2.0/E_Challenge.dll
+/Users/brittanytarantino/Projects/E_Challenge/E_Challenge/bin/Debug/netcoreapp2.0/E_Challenge.pdb
+/Users/brittanytarantino/Projects/E_Challenge/E_Challenge/obj/Debug/netcoreapp2.0/E_Challenge.csprojResolveAssemblyReference.cache
+/Users/brittanytarantino/Projects/E_Challenge/E_Challenge/obj/Debug/netcoreapp2.0/E_Challenge.csproj.CoreCompileInputs.cache
+/Users/brittanytarantino/Projects/E_Challenge/E_Challenge/obj/Debug/netcoreapp2.0/E_Challenge.AssemblyInfoInputs.cache
+/Users/brittanytarantino/Projects/E_Challenge/E_Challenge/obj/Debug/netcoreapp2.0/E_Challenge.AssemblyInfo.cs
+/Users/brittanytarantino/Projects/E_Challenge/E_Challenge/obj/Debug/netcoreapp2.0/E_Challenge.dll
+/Users/brittanytarantino/Projects/E_Challenge/E_Challenge/obj/Debug/netcoreapp2.0/E_Challenge.pdb

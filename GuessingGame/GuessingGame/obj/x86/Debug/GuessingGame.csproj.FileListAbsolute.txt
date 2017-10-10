@@ -1,0 +1,5 @@
+/Users/brittanytarantino/Projects/GuessingGame/GuessingGame/bin/Debug/GuessingGame.exe
+/Users/brittanytarantino/Projects/GuessingGame/GuessingGame/bin/Debug/GuessingGame.pdb
+/Users/brittanytarantino/Projects/GuessingGame/GuessingGame/obj/x86/Debug/GuessingGame.csproj.CoreCompileInputs.cache
+/Users/brittanytarantino/Projects/GuessingGame/GuessingGame/obj/x86/Debug/GuessingGame.exe
+/Users/brittanytarantino/Projects/GuessingGame/GuessingGame/obj/x86/Debug/GuessingGame.pdb

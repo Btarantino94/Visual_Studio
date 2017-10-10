@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E2744621-DC8B-4B86-BB7E-F6C694689C35}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="R2HBook/Controllers/StudentController.cs">
+    <Files>
+      <File FileName="R2HBook/Controllers/ValuesController.cs" Line="31" Column="9" />
+      <File FileName="R2HBook/Model/Student.cs" Line="10" Column="38" />
+      <File FileName="R2HBook/Model/StudentContext.cs" Line="15" Column="6" />
+      <File FileName="R2HBook/Startup.cs" Line="15" Column="9" />
+      <File FileName="R2HBook/Controllers/StudentController.cs" Line="100" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.R2HBook PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
