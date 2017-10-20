@@ -1,0 +1,11 @@
+/Users/brittanytarantino/Projects/CHALLENGEtwo/CHALLENGEtwo/obj/Debug/netcoreapp2.0/CHALLENGEtwo.csprojResolveAssemblyReference.cache
+/Users/brittanytarantino/Projects/CHALLENGEtwo/CHALLENGEtwo/obj/Debug/netcoreapp2.0/CHALLENGEtwo.csproj.CoreCompileInputs.cache
+/Users/brittanytarantino/Projects/CHALLENGEtwo/CHALLENGEtwo/obj/Debug/netcoreapp2.0/CHALLENGEtwo.AssemblyInfoInputs.cache
+/Users/brittanytarantino/Projects/CHALLENGEtwo/CHALLENGEtwo/obj/Debug/netcoreapp2.0/CHALLENGEtwo.AssemblyInfo.cs
+/Users/brittanytarantino/Projects/CHALLENGEtwo/CHALLENGEtwo/bin/Debug/netcoreapp2.0/CHALLENGEtwo.deps.json
+/Users/brittanytarantino/Projects/CHALLENGEtwo/CHALLENGEtwo/bin/Debug/netcoreapp2.0/CHALLENGEtwo.runtimeconfig.json
+/Users/brittanytarantino/Projects/CHALLENGEtwo/CHALLENGEtwo/bin/Debug/netcoreapp2.0/CHALLENGEtwo.runtimeconfig.dev.json
+/Users/brittanytarantino/Projects/CHALLENGEtwo/CHALLENGEtwo/bin/Debug/netcoreapp2.0/CHALLENGEtwo.dll
+/Users/brittanytarantino/Projects/CHALLENGEtwo/CHALLENGEtwo/bin/Debug/netcoreapp2.0/CHALLENGEtwo.pdb
+/Users/brittanytarantino/Projects/CHALLENGEtwo/CHALLENGEtwo/obj/Debug/netcoreapp2.0/CHALLENGEtwo.dll
+/Users/brittanytarantino/Projects/CHALLENGEtwo/CHALLENGEtwo/obj/Debug/netcoreapp2.0/CHALLENGEtwo.pdb

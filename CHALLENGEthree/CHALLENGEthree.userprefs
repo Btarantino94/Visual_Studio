@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{55B16E14-976C-4D47-B238-773F97FD5513}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CHALLENGEthree/Program.cs">
+    <Files>
+      <File FileName="CHALLENGEthree/Program.cs" Line="15" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CHALLENGEthree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

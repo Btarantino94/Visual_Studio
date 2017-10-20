@@ -1,0 +1,4 @@
+/Users/brittanytarantino/Projects/CHALLENGEthree/CHALLENGEthree/obj/Debug/netcoreapp2.0/CHALLENGEthree.csprojResolveAssemblyReference.cache
+/Users/brittanytarantino/Projects/CHALLENGEthree/CHALLENGEthree/obj/Debug/netcoreapp2.0/CHALLENGEthree.csproj.CoreCompileInputs.cache
+/Users/brittanytarantino/Projects/CHALLENGEthree/CHALLENGEthree/obj/Debug/netcoreapp2.0/CHALLENGEthree.AssemblyInfoInputs.cache
+/Users/brittanytarantino/Projects/CHALLENGEthree/CHALLENGEthree/obj/Debug/netcoreapp2.0/CHALLENGEthree.AssemblyInfo.cs

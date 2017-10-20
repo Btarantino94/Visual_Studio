@@ -1,0 +1,11 @@
+/Users/brittanytarantino/Projects/challenge4.10_18_17/challenge4.10_18_17/bin/Debug/netcoreapp2.0/challenge4.10_18_17.deps.json
+/Users/brittanytarantino/Projects/challenge4.10_18_17/challenge4.10_18_17/bin/Debug/netcoreapp2.0/challenge4.10_18_17.runtimeconfig.json
+/Users/brittanytarantino/Projects/challenge4.10_18_17/challenge4.10_18_17/bin/Debug/netcoreapp2.0/challenge4.10_18_17.runtimeconfig.dev.json
+/Users/brittanytarantino/Projects/challenge4.10_18_17/challenge4.10_18_17/bin/Debug/netcoreapp2.0/challenge4.10_18_17.dll
+/Users/brittanytarantino/Projects/challenge4.10_18_17/challenge4.10_18_17/bin/Debug/netcoreapp2.0/challenge4.10_18_17.pdb
+/Users/brittanytarantino/Projects/challenge4.10_18_17/challenge4.10_18_17/obj/Debug/netcoreapp2.0/challenge4.10_18_17.csprojResolveAssemblyReference.cache
+/Users/brittanytarantino/Projects/challenge4.10_18_17/challenge4.10_18_17/obj/Debug/netcoreapp2.0/challenge4.10_18_17.csproj.CoreCompileInputs.cache
+/Users/brittanytarantino/Projects/challenge4.10_18_17/challenge4.10_18_17/obj/Debug/netcoreapp2.0/challenge4.10_18_17.AssemblyInfoInputs.cache
+/Users/brittanytarantino/Projects/challenge4.10_18_17/challenge4.10_18_17/obj/Debug/netcoreapp2.0/challenge4.10_18_17.AssemblyInfo.cs
+/Users/brittanytarantino/Projects/challenge4.10_18_17/challenge4.10_18_17/obj/Debug/netcoreapp2.0/challenge4.10_18_17.dll
+/Users/brittanytarantino/Projects/challenge4.10_18_17/challenge4.10_18_17/obj/Debug/netcoreapp2.0/challenge4.10_18_17.pdb

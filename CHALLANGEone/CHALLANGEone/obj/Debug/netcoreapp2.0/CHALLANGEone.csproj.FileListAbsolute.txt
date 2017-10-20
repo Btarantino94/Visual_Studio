@@ -1,0 +1,11 @@
+/Users/brittanytarantino/Projects/CHALLANGEone/CHALLANGEone/bin/Debug/netcoreapp2.0/CHALLANGEone.deps.json
+/Users/brittanytarantino/Projects/CHALLANGEone/CHALLANGEone/bin/Debug/netcoreapp2.0/CHALLANGEone.runtimeconfig.json
+/Users/brittanytarantino/Projects/CHALLANGEone/CHALLANGEone/bin/Debug/netcoreapp2.0/CHALLANGEone.runtimeconfig.dev.json
+/Users/brittanytarantino/Projects/CHALLANGEone/CHALLANGEone/bin/Debug/netcoreapp2.0/CHALLANGEone.dll
+/Users/brittanytarantino/Projects/CHALLANGEone/CHALLANGEone/bin/Debug/netcoreapp2.0/CHALLANGEone.pdb
+/Users/brittanytarantino/Projects/CHALLANGEone/CHALLANGEone/obj/Debug/netcoreapp2.0/CHALLANGEone.csprojResolveAssemblyReference.cache
+/Users/brittanytarantino/Projects/CHALLANGEone/CHALLANGEone/obj/Debug/netcoreapp2.0/CHALLANGEone.csproj.CoreCompileInputs.cache
+/Users/brittanytarantino/Projects/CHALLANGEone/CHALLANGEone/obj/Debug/netcoreapp2.0/CHALLANGEone.AssemblyInfoInputs.cache
+/Users/brittanytarantino/Projects/CHALLANGEone/CHALLANGEone/obj/Debug/netcoreapp2.0/CHALLANGEone.AssemblyInfo.cs
+/Users/brittanytarantino/Projects/CHALLANGEone/CHALLANGEone/obj/Debug/netcoreapp2.0/CHALLANGEone.dll
+/Users/brittanytarantino/Projects/CHALLANGEone/CHALLANGEone/obj/Debug/netcoreapp2.0/CHALLANGEone.pdb

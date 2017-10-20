@@ -1,0 +1,4 @@
+/Users/brittanytarantino/Projects/10.13.2017ch1/10.13.2017ch1/obj/Debug/netcoreapp2.0/10.13.2017ch1.csprojResolveAssemblyReference.cache
+/Users/brittanytarantino/Projects/10.13.2017ch1/10.13.2017ch1/obj/Debug/netcoreapp2.0/10.13.2017ch1.csproj.CoreCompileInputs.cache
+/Users/brittanytarantino/Projects/10.13.2017ch1/10.13.2017ch1/obj/Debug/netcoreapp2.0/10.13.2017ch1.AssemblyInfoInputs.cache
+/Users/brittanytarantino/Projects/10.13.2017ch1/10.13.2017ch1/obj/Debug/netcoreapp2.0/10.13.2017ch1.AssemblyInfo.cs
